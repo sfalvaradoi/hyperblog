@@ -27,6 +27,12 @@ body
     width: 50px;
 }
 
+#footer
+{
+    color: black;
+    font-family: monospace;
+    font-size: large;
+}
 #container
 {
     width: 70%;
